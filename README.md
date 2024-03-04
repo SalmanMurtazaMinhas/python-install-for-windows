@@ -13,10 +13,10 @@
 
 3. **Install Python**:
    - The installer will open.
-   - Check the box that says "Add Python to PATH".
+   - Check the box that says "Add Python.exe to PATH".
    - Click on the "Install Now" button.
-     ![](![image](https://github.com/SalmanMurtazaMinhas/python-install-for-windows/assets/139884020/8aceb385-12a3-4e1e-a89a-2f3bd6effc79)
-)
+     
+     ![](https://github.com/SalmanMurtazaMinhas/python-install-for-windows/assets/139884020/8aceb385-12a3-4e1e-a89a-2f3bd6effc79)
 
 4. **Wait for Installation**:
    - The installer will now install Python on your system. This may take a few minutes.
