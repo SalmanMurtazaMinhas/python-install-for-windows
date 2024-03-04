@@ -58,9 +58,4 @@ Open the `main.py` file, vsCode will prompt you to install a few things such as:
 The python language extension gives us better support for the python language such as, intellisense, autocomplete and linting.
 
 
-# Note
-All lessons are tailored for Macs, so whenever a lesson instructs you to use "python3" as a command line command, please use "python" instead.
 
-for example:
-
-instead of `python3 --version` you'll use `python --version`
